@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Pay Calculator</string>
+    <string name="day_label">Day</string>
+    <string name="week_1_label">Week 1</string>
+    <string name="week_2_label">Week 2</string>
+    <string name="monday_label">Monday</string>
+    <string name="tuesday_label">Tuesday</string>
+    <string name="wednesday_label">Wednesday</string>
+    <string name="thursday_label">Thursday</string>
+    <string name="friday_label">Friday</string>
+    <string name="saturday_label">Saturday</string>
+    <string name="sunday_label">Sunday</string>
+    <string name="calculate_pay_button">Calculate Pay</string>
+    <string name="settings_btn">Set Hourly Rate</string>
+    <string name="total_salary_label">TOTAL SALARY</string>
+    <string name="week_2_total_label">Week 2</string>
+    <string name="week_1_total_label">Week 1</string>
+    <string name="settings_saturday_rate_label">Saturday Rate</string>
+    <string name="settings_weekday_rate_label">Weekday Rate</string>
+    <string name="settings_sunday_rate_label">Sunday Rate</string>
+    <string name="settings_done_button">Done</string>
+    <string name="settings_instructions_text">  Instructions: \n \n \n Default hourly rates: \n -Weekday: $38/h \n -Saturday: $57/h \n -Sunday: $78/h \n \n Leave BLANK to reset to default rate</string>
+    <string name="hours">Hours</string>
+    <string name="set_new_rate">Set new rate</string>
+
+</resources>
